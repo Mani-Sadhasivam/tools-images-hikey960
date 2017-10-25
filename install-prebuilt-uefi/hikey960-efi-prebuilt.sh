@@ -7,7 +7,7 @@
 # https://opensource.org/licenses/MIT
 
 BASE_URL=http://builds.96boards.org/snapshots/reference-platform/components/uefi-staging
-VERSION=20
+VERSION=latest
 PRODUCT=hikey960
 RELEASE=release
 
